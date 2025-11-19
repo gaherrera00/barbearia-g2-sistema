@@ -46,5 +46,5 @@ Desenvolvida como solução prática para organizar atendimentos, padronizar pro
 **LinkedIn:** https://www.linkedin.com/in/gabriel-herrera-demarchi-532844338
 
 **Contribuidor:** Gustavo Grelhus dos Santos 
-**GitHub:** https://github.com/russ1anyk
+**GitHub:** https://github.com/gxstavo1
 **LinkedIn:** https://www.linkedin.com/in/gustavo-grelhus-dos-santos-119883398
