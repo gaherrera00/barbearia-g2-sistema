@@ -1,11 +1,11 @@
-# Barbearia Management System
+# **Barbearia Management System**
 
 Plataforma web para gerenciamento operacional de uma barbearia, incluindo controle de serviços, agenda, clientes e fluxo administrativo.  
-Desenvolvido como solução prática para organizar atendimentos, padronizar processos e melhorar a experiência interna do estabelecimento.
+Desenvolvida como solução prática para organizar atendimentos, padronizar processos e melhorar a experiência interna do estabelecimento.
 
 ---
 
-## 📌 Funcionalidades Principais
+## 📌 **Funcionalidades Principais**
 - Cadastro de serviços  
 - Listagem e gerenciamento de clientes  
 - Organização de agenda e atendimentos  
@@ -14,12 +14,33 @@ Desenvolvido como solução prática para organizar atendimentos, padronizar pro
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+## 🧰 **Tecnologias Utilizadas**
 - HTML  
 - CSS  
 - JavaScript  
-- (adicione aqui qualquer tecnologia adicional usada no projeto)
 
 ---
 
-## 📁 Estrutura do Projeto
+## 🧩 **Competências Demonstradas**
+- Construção de interface web organizada  
+- Estruturação de páginas HTML/CSS/JS  
+- Modularização e separação de responsabilidades  
+- Organização de fluxo administrativo  
+- Versionamento e documentação de código com Git  
+- Prototipação e implementação rápida  
+
+---
+
+## 🗺️ **Melhorias Futuras (Roadmap)**
+- Autenticação  
+- Dashboard com métricas  
+- Sistema completo de agendamento  
+- Integração com backend (Node.js + MySQL)  
+- Persistência real de dados  
+
+---
+
+## 📞 **Contato**
+**Desenvolvedor:** Seu Nome  
+**GitHub:** https://github.com/gaherrera00
+**LinkedIn:** https://www.linkedin.com/in/gabriel-herrera-demarchi-532844338

@@ -1,0 +1,143 @@
+body {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    padding: 20px;
+}
+
+.banner {
+    margin-top: 100px;
+}
+
+.banner img {
+    width: 100%;
+    max-height: 700px;
+    object-fit: cover;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.card {
+    background-color: #1a1a1a;
+    color: white;
+    border: none;
+    box-shadow: 0 4px 12px rgba(255, 255, 255, 0.05);
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.card-header {
+    padding: 1rem;
+    background-color: transparent;
+}
+
+.card-header img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    border: 2px solid #fff;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.agendamento {
+    margin: 60px auto;
+    text-align: center;
+    width: 80%;
+}
+
+.btn-danger {
+    background-color: #e50914;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 15px;
+    transition: 0.3s;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-danger:hover {
+    background-color: #ff1f2c;
+    transform: scale(1.05);
+}
+
+.servicos {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 90%;
+    margin-left: 8.3%;
+    margin-right: auto;
+}
+
+.servicos h2 {
+    color: red;
+    font-size: 1.3rem;
+    margin-bottom: 1.5rem;
+}
+
+.servicos img {
+    max-width: 288px;
+    max-height: 288px;
+}
+
+.fotos {
+    width: 90%;
+    margin: 50px auto;
+}
+
+.fotos img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.resumo {
+    margin-top: 70px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .card-header img {
+        height: 80px;
+        width: 80px;
+    }
+
+    .fotos,
+    .servicos,
+    .resumo,
+    .agendamento {
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banner {
+        margin-top: 70px;
+    }
+
+    .banner img {
+        max-height: 800px;
+        object-fit: cover;
+    }
+
+    .servicos {
+        margin: 30px 0 0 6%;
+    }
+    .depoimento{
+        font-size: 3px;
+    }
+}
